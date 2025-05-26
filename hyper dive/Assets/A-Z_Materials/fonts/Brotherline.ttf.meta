@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d2a84c18dabf24539a46ff32ce90a936
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brotherline
+  fontNames:
+  - Brotherline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a0f2668233c5e40c8acb1f903f31d794, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
