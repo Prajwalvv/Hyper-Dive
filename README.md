@@ -1,6 +1,6 @@
 # Hyper Dive
 
-![App Icon](/IMG&VID/appIcon1.png)
+![App Icon](images/appIcon1.png)
 
 ## Overview
 Hyper Dive is a hyper-casual infinite level game built with the Unity game engine. It's an intense cave-diving experience where players control a character falling through deep caverns with increasingly challenging obstacles. The game features vibrant visuals, addictive gameplay, and has achieved over 10,000+ downloads on the App Store.
@@ -28,10 +28,10 @@ In Hyper Dive, players guide a character falling through endless deep caverns fi
 ## Screenshots
 
 ### Gameplay Screenshots
-![Gameplay](/IMG&VID/Group%2013.png)
-![Gameplay](/IMG&VID/Group%2014.png)
-![Gameplay](/IMG&VID/Group%2015.png)
-![Gameplay](/IMG&VID/Group%2016.png)
+![Gameplay](images/Group%2013.png)
+![Gameplay](images/Group%2014.png)
+![Gameplay](images/Group%2015.png)
+![Gameplay](images/Group%2016.png)
 
 ## Game Mechanics
 

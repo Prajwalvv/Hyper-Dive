@@ -1,0 +1,15 @@
+*.cs linguist-language=C#
+*.shader linguist-language=ShaderLab
+*.cginc linguist-language=ShaderLab
+*.hlsl linguist-language=ShaderLab
+*.compute linguist-language=ShaderLab
+*.asmdef linguist-language=C#
+*.asmref linguist-language=C#
+*.meta linguist-generated
+ProjectSettings/*.asset linguist-generated
+*.unity linguist-generated
+*.asset linguist-generated
+*.prefab linguist-generated
+*.mat linguist-generated
+*.controller linguist-generated
+*.anim linguist-generated
